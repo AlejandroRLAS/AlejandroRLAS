@@ -9,6 +9,12 @@ Hola que tal, Soy ALejandro de Estados Unidos, Phonix. Y yo me dedico a programa
 
 ## Skills and Experience
 
+
+
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroRLAS)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="left" width="22%" border="22%"  src="https://cdnb.artstation.com/p/assets/images/images/050/536/803/smaller_square/alle-studio-asset.jpg?1655106628" />
 
 <img align="left" width="22%" border="22%"  src="https://cdnb.artstation.com/p/assets/images/images/048/866/859/smaller_square/alle-studio-asset.jpg?1651123798" />
@@ -16,12 +22,6 @@ Hola que tal, Soy ALejandro de Estados Unidos, Phonix. Y yo me dedico a programa
 <img align="left" width="22%" border="22%"  src="https://cdnb.artstation.com/p/assets/images/images/050/536/537/20220613023743/smaller_square/alle-studio-asset.jpg?1655105863" />
 
 <img align="left" width="22%" border="22%"  src="https://cdnb.artstation.com/p/assets/covers/images/035/302/485/smaller_square/alle-studio-cover.jpg?1614627045" />
-
-
-
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroRLAS)](https://github.com/anuraghazra/github-readme-stats)
-
 ___
 
 - 🔭 I’m currently working on this page. 
