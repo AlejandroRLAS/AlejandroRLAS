@@ -17,7 +17,7 @@ Hola que tal, Soy ALejandro de Estados Unidos, Phonix. Y yo me dedico a programa
 
 <img align="right" width="22%" border="22%"  src="https://cdnb.artstation.com/p/assets/covers/images/035/302/485/smaller_square/alle-studio-cover.jpg?1614627045" />
 
-## DESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGN
+DESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGN
 
 <p align="" >Programing</p>
 
