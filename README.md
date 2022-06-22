@@ -9,16 +9,21 @@ Hola que tal, Soy ALejandro de Estados Unidos, Phonix. Y yo me dedico a programa
 
 ## Skills and Experience
 
-| Programs         |
-| -------------    |
-| Adobe Illustriato|
-| Adobe Fotoshop   |
-| Blender          |
-| Procreate        |
-| Nomad            |
-| Visual Studio    |
+Design
 
- 
+<img align="left" width="23%" border="25%"  src="https://cdnb.artstation.com/p/assets/images/images/050/536/803/smaller_square/alle-studio-asset.jpg?1655106628" />
+
+<img align="left" width="23%" border="25%"  src="https://cdnb.artstation.com/p/assets/images/images/048/866/859/smaller_square/alle-studio-asset.jpg?1651123798" />
+
+<img align="left" width="23%" border="25%"  src="https://cdnb.artstation.com/p/assets/images/images/050/536/537/20220613023743/smaller_square/alle-studio-asset.jpg?1655105863" />
+
+<img align="left" width="23%" border="25%"  src="https://cdnb.artstation.com/p/assets/covers/images/035/302/485/smaller_square/alle-studio-cover.jpg?1614627045" />
+
+___
+
+Programing
+
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroRLAS)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
@@ -27,15 +32,6 @@ ___
 - 🌱 I’m currently learning Phyton C++ C 
 - 📫 How to reach me: alejandro.rodriguez1753@alumnos.udg.mx 
 - ⚡ Fun fact: Me gusta hacer equipo 
-
-
-<a href="https://www.youtube.com/watch?v=2S4XEcjWP8A
-" target="_blank"><img src="https://cdna.artstation.com/p/assets/images/images/050/536/468/large/alle-studio-asset.jpg?1655105437" 
-alt="IMAGE ALT TEXT HERE" width="320" height="180" border="30" /></a>
-
-<a href="https://www.youtube.com/watch?v=2S4XEcjWP8A
-" target="_blank"><img src="https://cdna.artstation.com/p/assets/images/images/050/536/468/large/alle-studio-asset.jpg?1655105437" 
-alt="IMAGE ALT TEXT HERE" width="320" height="180" border="30" /></a>
 
 ___
 
