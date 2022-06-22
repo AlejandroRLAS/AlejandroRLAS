@@ -19,7 +19,7 @@ Design
 
 <img align="left" width="23%" border="25%"  src="https://cdnb.artstation.com/p/assets/covers/images/035/302/485/smaller_square/alle-studio-cover.jpg?1614627045" />
 
-___
+
 
 Programing
 
