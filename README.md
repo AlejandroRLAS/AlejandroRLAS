@@ -9,8 +9,6 @@ Hola que tal, Soy ALejandro de Estados Unidos, Phonix. Y yo me dedico a programa
 
 ## Skills and Experience
 
-Design
-
 <img align="right" width="22%" border="22%"  src="https://cdnb.artstation.com/p/assets/images/images/050/536/803/smaller_square/alle-studio-asset.jpg?1655106628" />
 
 <img align="right" width="22%" border="22%"  src="https://cdnb.artstation.com/p/assets/images/images/048/866/859/smaller_square/alle-studio-asset.jpg?1651123798" />
@@ -19,7 +17,7 @@ Design
 
 <img align="right" width="22%" border="22%"  src="https://cdnb.artstation.com/p/assets/covers/images/035/302/485/smaller_square/alle-studio-cover.jpg?1614627045" />
 
-## Skills and Experience
+## DESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGNDESIGN
 
 <p align="" >Programing</p>
 
