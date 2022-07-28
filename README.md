@@ -4,7 +4,10 @@
 ![Diseñador y Development](https://cdna.artstation.com/p/users/covers/002/696/776/default/498b33235984f953f6f58f1823985084.jpg?1655859082)
 ___
 
-Hola que tal, Soy ALejandro de Estados Unidos, Phoenix. Y yo me dedico a programar por el momento, en si para encontrar mi pasion a la programacion. En realidad me gusta mucho el UI, UX, me dedico a diseñar y animar ya que son las cosas que mas me an gustado en la vida, pero tambien aparte que soy super creativo a mi percepcion, me llama la atencion hacer aplicaciones o inteligencia artificial tambien o sircuitos electronicos, ya sea con arduino u otros elementos que lleva la elcetronica.
+Hola que tal, soy Alejandro originario de Arizona pero vivo en Jalisco.
+me dedico a programar. También me dedico diseñar y animar ya que son las cosas que más me han gustado en la vida.
+también las cosas que me interesan son las aplicaciones web, inteligencia artificial, mecanismo de robots.
+
 
 
 ## Skills and Experience
